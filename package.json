@@ -1,0 +1,15 @@
+{
+  "name": "rongcapital",
+  "version": "1.0.0",
+  "description": "官网",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kolf",
+  "license": "MIT",
+  "dependencies": {
+    "gulp-sass": "^2.0.4",
+    "gulp-watch": "^4.3.5"
+  }
+}
