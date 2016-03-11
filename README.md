@@ -1,8 +1,9 @@
-# 融数金服
+# 融数金服angular版
 ## 技术选型
 -  bootstrap
 -  angularjs
 -  jquery
+-  gulp
 
 ## 下载
 git clone git@github.com:kolf/rongcapital.git
